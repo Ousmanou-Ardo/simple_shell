@@ -5,7 +5,7 @@ Shell developed in C language. A shell is a command line interface (CLI) program
 
 
 ## Environment
-Simple Shell ,we building and testint it in the Ubuntu  and compiled with GCC
+Simple Shell ,we are building and testing the shell in  Ubuntu   and compiled with GCC
 
 ## Respository Contents
 Simple Shell files:
