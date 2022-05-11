@@ -9,3 +9,11 @@ Simple Shell ,we building and testint it in the Ubuntu  and compiled with GCC
 
 ## Respository Contents
 Simple Shell files:
+
+
+
+## Authors
+
+Yaya Ousmanou <ousmanou@iut-dhaka.edu>
+
+Sabrina Robert <prizsabertler@gmail.com>
