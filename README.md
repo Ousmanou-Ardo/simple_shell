@@ -14,6 +14,6 @@ Simple Shell files:
 
 ## Authors
 
-Yaya Ousmanou <ousmanou@iut-dhaka.edu>
+[Yaya Ousmanou](https://github.com/Ousmanou-Ardo)
 
-Sabrina Robert <prizsabertler@gmail.com>
+[Sabrina Robert](https://github.com/kalrul)
