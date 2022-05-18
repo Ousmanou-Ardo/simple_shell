@@ -4,7 +4,8 @@
 /**
  * change_dir - changes directory
  * @data: a pointer to the data structure
- * Return: (Success) 0 is returne 
+ *
+ * Return:(Success) 0 is returned
  * ------- (Fail) negative number will returned
  */
 int change_dir(sh_t *data)
