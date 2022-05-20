@@ -1,5 +1,5 @@
-#ifndef SHELL_H
-#define SHELL_H
+#ifndef SIMISHELL_H
+#define SIMISHELL_H
 
 #include <stdio.h>
 #include <stdlib.h>
