@@ -6,7 +6,6 @@
 #include <unistd.h>
 #include <sys/stat.h>
 #include <sys/types.h>
-#include <sys/wait.h>
 #include <fcntl.h>
 #include <errno.h>
 #include <signal.h>
@@ -22,8 +21,8 @@ extern int errno;
 
 typedef struct selectfunction
 {
-	char *command;
-	int (*funcptr)(char **line);
+char *command;
+int (*funcptr)(char **line);
 } selecte;
 
 void sigintHandler(int sig_num __attribute__((unused)));
