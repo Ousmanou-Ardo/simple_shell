@@ -29,6 +29,7 @@ Currently the list of built-ins I wrote is:
 * cd [directory]  
 Switch to the specified directory (path).
 * env  
+
 Displays the environment variable
 * exit [exitstatus]  
 Exit from the program with exitstatus value. 0 by default.
