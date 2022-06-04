@@ -178,6 +178,7 @@ Project Done in 15 Day
 Read More [Here](https://midinfotn401.medium.com/shell-step-by-step-what-happen-when-you-type-ls-l-in-the-shell-83d655712332)
 ## Authors
 * Sabrina Robert [Kalrul](https://github.com/Kalrul)
+* Yaya Ousmanou [Ousmanou-Ardo](https://github.com/Ousmanou-Ardo)
 
 
 
